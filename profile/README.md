@@ -1,5 +1,5 @@
 # shAave
 
-Short assets by borrowing on Aave and swapping through Uniswap in the same transaction.
+shAave has rebranded as [Pesto](https://pesto.finance).
 
-One transaction to open your short-position, one to close it.
+The protocol code has moved to a new [repo](https://github.com/chainrule-labs/pesto-contracts).
